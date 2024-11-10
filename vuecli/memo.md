@@ -12,3 +12,6 @@ npm install -g @vue/cli
 ```bash
 npm install -g @vue/cli-service-global
 ```
+
+## メモ
+app.vueの動かし方はよくわからなかった。
